@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on exam
-- 🌱 I’m currently learning Redis
+- 🔭 I’m currently working on project
+- 🌱 I’m currently learning micro services
 - 💬 Ask me about Java
 - 📫 How to reach me: [个人主页](https://beijiejiuting.github.io/MyPage)
-- ⚡ Fun fact: ...
+- ⚡ I love Huawei. Please send me an offer.
